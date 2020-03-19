@@ -12,8 +12,8 @@ $ apt install git php python openssh -y</code>
 <br />
 <h1>run</h1>
 <pre>
-<code>$ git clone https://github.com/null-hack/mrclipboard <br />
+<code>$ git clone https://github.com/parsa_olo/mrclipboard <br />
 $ cd mrclipboard <br />
 $ python3 mrclipboard.py</code>
 </pre> <br />
-<a href="https://t.me/NullHaCk">Telegram Channel</a>
+<a href="https://t.me/parsa_olohack">Telegram Channel</a>
